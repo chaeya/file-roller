@@ -73,6 +73,11 @@
         * libnautilus-extension >= 2.22.2 (optional)
         * libarchive >= 3.0.0 (optional)
 
+빌드를 위해서는 아래 패키지도 하모니카에서 추가로 필요
+* sudo apt install meson
+* sudo apt install itstool
+
+
 * Install
 
   mkdir build
